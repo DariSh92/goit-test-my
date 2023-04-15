@@ -1,4 +1,4 @@
-# React homework template
+<!-- # React homework template
 
 Этот проект был создан при помощи
 [Create React App](https://github.com/facebook/create-react-app). Для знакомства
@@ -110,4 +110,7 @@ GitHub.
    проходит линтинг и сборку перед деплоем.
 3. Если все шаги прошли успешно, собранная продакшн версия файлов проекта
    отправляется в ветку `gh-pages`. В противном случае, в логе выполнения
-   скрипта будет указано в чем проблема.
+   скрипта будет указано в чем проблема. -->
+
+Practice test from the GoIT school. Prepared as close as possible to a real test
+task during a technical interview
