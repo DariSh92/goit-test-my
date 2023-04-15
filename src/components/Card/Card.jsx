@@ -16,7 +16,7 @@ export const Card = ({ aboutUser }) => {
                 setFollowing(true);
             }
         }
-    }, []);
+    }, [aboutUser.id]);
 
     const handleFollowClick = () => {
         const followingUsers = JSON.parse(localStorage.getItem('followingUsers'));
